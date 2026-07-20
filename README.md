@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kartik-7714/Leet-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kartik-7714/Leet-Solution/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/kartik-7714/Leet-Solution/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kartik-7714/Leet-Solution/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kartik-7714/Leet-Solution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
